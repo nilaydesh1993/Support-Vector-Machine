@@ -12,7 +12,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import classification_report
 from sklearn.svm import SVC
-
 pd.set_option('display.max_columns',None)
 
 # ===============================================================================================
